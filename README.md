@@ -1,4 +1,4 @@
 github-test
 ===========
 
-Testing co operation with GitHub
+Testing co-operating with GitHub
